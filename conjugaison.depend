@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1656194289 source:d:\code\language c\conjugaison\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"conjugaison.h"
+
+1656194382 d:\code\language c\conjugaison\conjugaison.h
+
